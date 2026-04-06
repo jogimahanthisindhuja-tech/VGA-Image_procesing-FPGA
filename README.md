@@ -34,5 +34,3 @@ The design is divided into three main modules:
 3. Image processing module modifies pixel data in real time.
 4. Processed RGB signals are sent to the VGA display.
 
-##  Project Structure
-vga-controller-image-processing-verilog/ │── vga_controller.v │── image_processing.v │── top.v │── README.md
